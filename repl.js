@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 const WebSocket = require('ws');
-const History = require('repl.history');
+const History = require('repl-story');
 const stringArgv = require('string-argv');
 
 const Table = require('easy-table');
